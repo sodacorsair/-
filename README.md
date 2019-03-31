@@ -26,6 +26,7 @@
 >6. 伯特兰·罗素 《哲学简史》（还剩两章没看完）*
 >7. 戴维·波普诺 《社会学》
 >8. Yuval Noah Harari *Sapiens: A Brief History of Humankind*（还未读完）*
+>9. 格里高里·曼昆 《经济学原理》
 
 # 4. 信科类
 >1. David J.Agans 《调试九法》
