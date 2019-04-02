@@ -25,7 +25,7 @@
 >5. 贾雷德·戴蒙德 《枪炮、病菌与钢铁》
 >6. 伯特兰·罗素 《哲学简史》（还剩两章没看完）*
 >7. 戴维·波普诺 《社会学》
->8. Yuval Noah Harari *Sapiens: A Brief History of Humankind*（还未读完）*
+>8. Yuval Noah Harari *Sapiens: A Brief History of Humankind*
 >9. 格里高里·曼昆 《经济学原理》
 
 # 4. 信科类
