@@ -12,7 +12,7 @@
 >7. 路易斯·博尔赫斯 《小径分岔的花园》
 >8. 刘慈欣 《三体（三部曲）》
 >9. 史蒂芬·茨威格 《人类的群星闪耀时》
->10. 	Jostein Gaarder *Sophie's World*
+>10. 	Jostein Gaarder *Sophie's World* (2019.4.13)
 
 
 # 2. 工具书及方法论
