@@ -54,4 +54,4 @@
 >6. 梶尾真治/鹤田谦二 《回忆爱玛侬》
 
 # 6. 文章
->1. Steve Jobs *You've Got to Find What You Love*
+>1. Steve Jobs *You've Got to Find What You Love* (2019.4.14)
