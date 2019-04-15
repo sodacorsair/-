@@ -52,6 +52,7 @@
 >4. 幸村诚 《Vinland Saga》
 >5. 森薰 《少女新娘物语》
 >6. 梶尾真治/鹤田谦二 《回忆爱玛侬》
+>7. 竹良实 《在地狱边缘呐喊》 (2019.4.15)
 
 # 6. 文章
 >1. Steve Jobs *You've Got to Find What You Love* (2019.4.14)
