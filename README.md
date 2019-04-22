@@ -13,7 +13,7 @@
 >8. 刘慈欣 《三体（三部曲）》
 >9. 史蒂芬·茨威格 《人类的群星闪耀时》
 >10. Jostein Gaarder *Sophie's World* (2019.4.13)
->11. 	William Somerset Maugham *Moon and Sixpence* (2019.4.20)
+>11. 	William Somerset Maugham *The Moon and Sixpence* (2019.4.20)
 
 
 # 2. 工具书及方法论
