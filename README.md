@@ -33,6 +33,7 @@
 >8. Yuval Noah Harari *Sapiens: A Brief History of Humankind*
 >9. 格里高里·曼昆 《经济学原理》
 >10. 林达 《近距离看美国之一：历史深处的忧虑》 （2019.5.3）
+>11. 马特·里德利 《理性乐观派》 （2019.5.21）
 
 # 4. 信科类
 >1. David J.Agans 《调试九法》
@@ -49,6 +50,7 @@
 >12. Bill Phillips 《Android编程权威指南》（看了一半不看了）*
 >13. Dave H. Hoover / Adewale Oshineye 《软件开发者路线图》 （2019.5.4）
 >14. John Sonmez 《软技能：代码之外的生存技能》 （2019.5.8）
+>15. 户根勤 《网络是怎样连接的》 （2019.5.17）
 
 # 5. 漫画书
 >1. 谏山创 《进击的巨人》
