@@ -14,6 +14,8 @@
 >9. 史蒂芬·茨威格 《人类的群星闪耀时》
 >10. Jostein Gaarder *Sophie's World* (2019.4.13)
 >11. 	William Somerset Maugham *The Moon and Sixpence* (2019.4.20)
+>12. 黑塞 《荒原狼》
+>13. Ernest Hemingway *The Old Man and the Sea*
 
 
 # 2. 工具书及方法论
@@ -61,6 +63,8 @@
 >6. 梶尾真治/鹤田谦二 《回忆爱玛侬》
 >7. 竹良实 《在地狱边缘呐喊》 (2019.4.15)
 >8. 小梅京人 《狼与香辛料》 （京大毕业去当本子画师，日本就业这么惨吗）
+>9. 赤坂明 《辉夜大小姐想让我告白》
+》10. 野田悟 《黄金神威》
 
 # 6. 文章
 >1. Steve Jobs *You've Got to Find What You Love* (2019.4.14)
